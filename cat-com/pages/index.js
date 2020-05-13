@@ -19,7 +19,7 @@ export default function Home() {
         </p>
 
         <div className="grid">
-          <a target="_blank" href="https://docs.google.com/document/d/1IiqakTxPqEjZojFMKEoqE9pM7IPrHswXZOo4hbYd5UY/edit?usp=sharing">
+          <a target="_blank" href="/resume">
             <h3>Resume</h3>
           </a>
           
